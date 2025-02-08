@@ -1,6 +1,3 @@
-Voici le contenu prêt à être copié directement dans ton fichier `README.md` dans VSCode :
-
-```markdown
 # LogicGame_C 🎮
 
 **LogicGame_C** is a C language application featuring three logic games designed to challenge your problem-solving skills and creativity.
