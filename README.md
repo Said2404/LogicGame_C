@@ -26,6 +26,12 @@ Before running the project, ensure you have:
 
 ---
 
+## 🎥 Video Demonstration
+Click the link below to watch the demo:
+
+[▶ Watch the video](Video/SAE1.mp4.1)
+
+
 ## 🚀 Installation and Execution
 
 ### 1. Clone the Repository
