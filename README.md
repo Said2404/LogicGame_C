@@ -46,7 +46,8 @@ gcc JeuFinal_TCSAB.c -o JeuFinal
 ---
 
 ## ✍️ Author
-This project was developed as part of a university project.
+This project was developed by Said2404 and Lazularszz as part of a university project.
 - GitHub: [Said2404](https://github.com/Said2404)
+- GitHub: [Lazularszz](https://github.com/Lazularszz)
 ---
 
