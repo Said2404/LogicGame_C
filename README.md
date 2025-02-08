@@ -29,8 +29,9 @@ Before running the project, ensure you have:
 ## 🎥 Video Demonstration
 Click the link below to watch the demo:
 
-[▶ Watch the video](Video/SAE1.mp4.1.mp4)
+👉 [LogicGame_C Documentation and Video Demo](https://said2404.github.io/LogicGame_C/)
 
+---
 
 ## 🚀 Installation and Execution
 
