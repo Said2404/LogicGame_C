@@ -29,7 +29,7 @@ Before running the project, ensure you have:
 ## 🎥 Video Demonstration
 Click the link below to watch the demo:
 
-[▶ Watch the video](Video/SAE1.mp4.1)
+[▶ Watch the video](Video/SAE1.mp4.1.mp4)
 
 
 ## 🚀 Installation and Execution
